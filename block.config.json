@@ -1,0 +1,20 @@
+{
+  "blockId": "OToH13SNJhqMUvRUzmsG8",
+  "name": "11Jul_Block",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/11Jul.git",
+    "ssh": "git@github.com:grgshiji/11Jul.git",
+    "branch": "block_11Jul_Block"
+  },
+  "parentBlockIDs": [
+    "JRH5ccRVzdBYk7GQLaeN6"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
