@@ -1,0 +1,39 @@
+{
+  "name": "11Jul",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/grgshiji/11Jul.git",
+    "ssh": "git@github.com:grgshiji/11Jul.git",
+    "branch": "block_11Jul"
+  },
+  "dependencies": {
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    },
+    "11Jul_Block": {
+      "directory": "11Jul_Block"
+    }
+  },
+  "blockId": "JRH5ccRVzdBYk7GQLaeN6",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
